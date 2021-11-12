@@ -15,5 +15,8 @@ Conception et réalisation d’une carte de contrôle d’un moteur pas à pas, 
 ## Schematic Prints
 [Schematic](https://github.com/PaezEdward/Board-Control-Motor-Spartan6/blob/main/doc/Schematic_Prints_Altium.pdf "Schematic Prints")
 
+## Description de Hardware: Xilinx ISE
+![Preview](https://github.com/PaezEdward/Board-Control-Motor-Spartan6/blob/main/img/HW_ISE_Xilinx.png)
+
 Cordialement,
 - Edward PAEZ
