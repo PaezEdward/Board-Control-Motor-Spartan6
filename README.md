@@ -6,5 +6,12 @@ Conception et réalisation d’une carte de contrôle d’un moteur pas à pas, 
 3. Codage et simulation de tous les blocs fonctionnels en VHDL avec Xilinx ISE.
 4. Interface de commande via une liaison série en Python.
 
+## PCB Final
+![Preview](https://github.com/PaezEdward/Board-Control-Motor-Spartan6/blob/main/img/PCB_Rev1.0.png)
+
+## PCB Final 3D
+![Preview](https://github.com/PaezEdward/Board-Control-Motor-Spartan6/blob/main/img/PCB_Rev1.0_3D_02.png)
+
+
 Cordialement,
 - Edward PAEZ
