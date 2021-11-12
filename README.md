@@ -13,7 +13,7 @@ Conception et réalisation d’une carte de contrôle d’un moteur pas à pas, 
 ![Preview](https://github.com/PaezEdward/Board-Control-Motor-Spartan6/blob/main/img/PCB_Rev1.0_3D_02.png)
 
 ## Schematic Prints
-[Schematic Prints](https://github.com/PaezEdward/Board-Control-Motor-Spartan6/blob/main/doc/Schematic_Prints_Altium.pdf "Schematic Prints")
+[Schematic](https://github.com/PaezEdward/Board-Control-Motor-Spartan6/blob/main/doc/Schematic_Prints_Altium.pdf "Schematic Prints")
 
 Cordialement,
 - Edward PAEZ
